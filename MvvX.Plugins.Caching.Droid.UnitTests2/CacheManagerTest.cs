@@ -2,14 +2,12 @@
 using NUnit.Framework;
 using System.Threading;
 
-namespace MvvX.Plugins.Caching.Droid.UnitTests
+namespace MvvX.Plugins.Caching.Droid.UnitTests2
 {
-    /// <summary>
-    /// Description résumée pour CacheManagerTest
-    /// </summary>
     [TestFixture]
     public class CacheManagerTest
     {
+
         private int durationCache = 60;
 
         [Test]

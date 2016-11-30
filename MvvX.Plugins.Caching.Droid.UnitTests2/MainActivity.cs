@@ -3,9 +3,9 @@ using Android.App;
 using Android.OS;
 using Xamarin.Android.NUnitLite;
 
-namespace MvvX.Plugins.Caching.Droid.UniTests
+namespace MvvX.Plugins.Caching.Droid.UnitTests2
 {
-    [Activity(Label = "MvvX.Plugins.Caching.Droid.UniTests", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "MvvX.Plugins.Caching.Droid.UnitTests2", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : TestSuiteActivity
     {
         protected override void OnCreate(Bundle bundle)

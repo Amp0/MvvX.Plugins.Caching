@@ -6,11 +6,11 @@ using Android.App;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MvvX.Plugins.Caching.Droid.UniTests")]
+[assembly: AssemblyTitle("MvvX.Plugins.Caching.Droid.UnitTests2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MvvX.Plugins.Caching.Droid.UniTests")]
+[assembly: AssemblyProduct("MvvX.Plugins.Caching.Droid.UnitTests2")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

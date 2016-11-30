@@ -115,6 +115,7 @@ namespace MvvX.Plugins.Caching.Wpf.UnitTests
 
             // On vérifie que les clés n'y sont plus
             Assert.IsFalse(cacheManager.IsSet("keys"));
+            
             for (int i = 1; i < 10; i++)
                 Assert.IsFalse(cacheManager.IsSet("key_" + i.ToString()));
         }
